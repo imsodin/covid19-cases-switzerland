@@ -3,7 +3,7 @@
 New data is aggregated from:
 [https://github.com/openZH/covid_19](https://github.com/openZH/covid_19)
 
-Legacy data sources:
+Legacy data sources and credits:
 
 - Official BAG [Twitter Account](https://twitter.com/BAG_OFSP_UFSP)
 - BFS [Hospital Beds](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/spitaeler/infrastruktur-beschaeftigung-finanzen.assetdetail.10647166.html)
