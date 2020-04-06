@@ -1,1 +1,1 @@
-{"totals": {"cases": 21065.0, "fatalities": 715.0, "hospitalized": 2216.0, "icu": 371.0, "vent": 250.0, "released": 2055.0}, "changes": {"cases": 292.0, "fatalities": 28.0, "hospitalized": -11.0, "icu": -8.0, "vent": -11.0, "released": 154.0}, "updated_cantons": "AR,BE,BL,BS,FR,JU,LU,NW,SG,SO,SZ,TG,TI,UR,VS,ZH"}
+{"totals": {"cases": 21065.0, "fatalities": 715.0, "hospitalized": 2216.0, "icu": 371.0, "vent": 250.0, "released": 2055.0}, "changes": {"cases": 0.0, "fatalities": 0.0, "hospitalized": 0.0, "icu": 0.0, "vent": 0.0, "released": 0.0}, "updated_cantons": ""}
