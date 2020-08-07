@@ -1,1 +1,1 @@
-{"totals": {"cases": 36181.0, "fatalities": 1986.0, "hospitalized": 134.0, "icu": 22.0, "vent": 8.0, "released": 6391.0, "tested": 58680.0}, "changes": {"cases": 0.0, "fatalities": 0.0, "hospitalized": 0.0, "icu": 0.0, "vent": 0.0, "released": 0.0, "tested": 0.0}, "updated_cantons": ""}
+{"totals": {"cases": 36182.0, "fatalities": 1986.0, "hospitalized": 133.0, "icu": 22.0, "vent": 8.0, "released": 6393.0, "tested": 58680.0}, "changes": {"cases": 1.0, "fatalities": 0.0, "hospitalized": -1.0, "icu": 0.0, "vent": 0.0, "released": 2.0, "tested": 0.0}, "updated_cantons": "SZ,ZG"}
